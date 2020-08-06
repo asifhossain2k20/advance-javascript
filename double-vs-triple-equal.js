@@ -8,9 +8,8 @@ else{
 }
 
 
-const a=22;
-const b="22";
-if(a===b){
+
+if('2'===2){
     console.log("Condition is true");
 }
 else{
